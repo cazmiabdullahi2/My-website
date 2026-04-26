@@ -1,0 +1,208 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url(Restaurant.jpg);
+   background-size:cover;
+   background-size:80vh 400vw;
+   background-repeat: no-repeat;
+   background-position: center;
+  
+}
+header{
+    background-color:blue;
+  
+}
+/* class selector of menu page */
+.bg{
+    background-color:blue;
+    color: darkred;
+}
+
+.bg{
+    background-image: url("Sawir.jpg");
+    background-size: cover;
+    background-size: 100vh 100vw
+    background-repeat: no-repeat;
+    background-position: center;
+}
+/* list images*/
+.bariis{
+    width:300px;
+    height: 300px;
+    object-fit:cover;
+    display:block;
+}
+.pasta{
+    width:300px;
+    height:300px;
+    object-fit:cover;
+    display:block;
+}
+.dooro{
+    width:300px;
+    height:350px;
+    object-fit:cover;
+    display:block;
+}
+.mango{
+    width:300px;
+    height:300px ;
+    object-fit:cover;
+    display:block;
+}
+.shaah{
+    width:300px;
+    height: 300px;
+    object-fit:cover;
+    display:block;
+}
+.milk{
+    width:300px;
+    height:300px ;
+    object-fit:cover;
+    display:block;
+}
+.halwa{
+    width:300px;
+    height: 300px;
+    object-fit:cover;
+    display:block;
+}
+.dates{
+    width:300px;
+    height:300px ;
+    object-fit:cover;
+    display:block;
+}
+.muus{
+    width:300px;
+    height:400px;
+    object-fit:cover;
+    display:block;
+}
+ /*about*/ 
+.about{
+    background-image: url(About.jpg);
+    background-size:cover;
+    background-position:center;
+}
+.about h1{
+    background-color: blueviolet;
+}
+.about p {
+    color: #003300;
+}
+.about nav a{
+    color: brown;
+}
+ /*gallery */
+.Gallery{
+    background-image: url(About.jpg);
+    background-size:cover;
+    background-position:center;
+    background-size: 70vh 200vw;
+}
+.Gallery h1{
+    background-color: darkred;
+    color: cyan;
+}
+.Gallery h2{
+    color: chartreuse;
+}
+   /*gallery images*/
+.images{
+    display: flex;
+    gap: 10px;
+    width:100px;
+    height: 150px;
+}
+.images{
+    display: flex;
+    gap: 10px;
+    width:100px;
+    height:150px;
+}
+.images{
+    gap: 10px;
+    width:100x;
+    height:150px;
+    
+}
+   /*contact*/
+
+.contact{
+    background-image: url(Contact.jpg);
+    background-size: cover;
+    background-position: center;
+    background-size: 70vh 220vw;
+}
+.contact h1{
+    background-color: dimgray;
+}
+
+header h1{
+    font-size:2em;
+    text-align: center;
+    color:#ffffff;
+   background-size:50px;
+}
+
+/* descdent selector  */
+header p{
+    color:#fffedc;
+    font-size: 10px;
+    font-style: italic;
+    font-weight: 800;
+    text-align: center;
+}
+
+nav a{
+color: goldenrod;
+font-size:30px;
+   text-decoration: none;
+}
+
+ nav ul{
+    list-style-type:none;
+}
+
+
+main p{
+    line-height: 3em;
+    color: yellow;
+    letter-spacing: 20%;
+    text-indent: 30px;
+    
+}
+
+main p span {
+    color: purple;
+    text-transform: uppercase;
+}
+
+main ul li{
+    /* list-style-image: url(); */
+
+}
+
+.foot{
+    background-color:lighblue;
+   height:80px;
+
+   font-size: medium;
+   font-style: italic;
+    
+}
+
+.restaurant{
+width: 400px;
+height: 400px;
+}
+
+
+/* id selector of index page  */
+/* #resdescription{
+    color: rgb(15, 188, 26);
+} */
